@@ -1,0 +1,5 @@
+[core]
+    analytics = false
+    remote = default_remote
+['remote "default_remote"']
+    url = C:/Users/kruets/Documents/Workspace/dvc_test/dvc_remote
